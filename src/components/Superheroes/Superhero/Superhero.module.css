@@ -1,0 +1,29 @@
+.expand {
+  transform: rotate(0deg);
+  margin-left: auto;
+  width: 100%;
+  border-radius: 0 !important;
+}
+
+.expandOpen {
+  transform: rotate(180deg);
+}
+
+.cardMedia {
+  height: 480px;
+}
+
+.card {
+  height: 100%;
+}
+
+.cardAction{
+  display: flex;
+  justify-content: center;
+}
+
+.cardContent {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}

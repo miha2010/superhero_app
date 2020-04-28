@@ -1,0 +1,26 @@
+html, body {
+    background-color: #2E2F33;
+}
+
+.heading {
+    color: white;
+    padding: 2% 0;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+@media only screen and (max-width: 600px) {
+    .container {
+        padding: 0 10%;
+        margin-top: 30px;
+    }
+
+    .heading {
+        font-size: 2.5em !important;
+        margin-bottom: 15px !important;
+    }
+}

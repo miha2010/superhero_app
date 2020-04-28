@@ -1,0 +1,19 @@
+.container {
+    padding: 0 2%;
+}
+
+.progress {
+    color: white !important;
+}
+
+.textContainer {
+    padding: 0 2%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60vh;
+}
+
+.error {
+    color: white;
+}
