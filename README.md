@@ -1,3 +1,3 @@
 # Superhero Application
 
-[Live Version](https://stupefied-engelbart-a23bbd.netlify.com)
+[Live Version](https://vigilant-darwin-25f590.netlify.app/)
